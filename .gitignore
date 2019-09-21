@@ -1,0 +1,19 @@
+# backups
+*~
+*.bak
+
+# LaTex
+*.pdf
+*.aux
+*.log
+*.bbl
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Byte-compiled / optimized / DLL files
+*.out
+__pycache__/
+*.py[cod]
+*$py.class
+
